@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Aktan
 
 ## I'm a Front-end developer.
+## Github Page : https://aktank13.github.io/
 
 - 🔭 I’m currently working on React
 - 🌱 I’m constantly learning new things
@@ -31,7 +32,7 @@
 <br />
 <br />
 
-[Github Page]: https://aktank13.github.io/
+
 [linkedin]: https://www.linkedin.com/in/aktan-kerimbekov-985676241/
 [instagram]: https://www.instagram.com/_ker1mbekov/
 [telegram]: https://t.me/Ker1mbeK0v
